@@ -3,7 +3,7 @@
 
 edibImamovic/GOpom
 
-GOpom are Page object model based on * [llonchj/browsersteps](https://github.com/llonchj/browsersteps)
+GOpom are Page object model based on [llonchj/browsersteps](https://github.com/llonchj/browsersteps)
 ## Installation
 
     go get github.com/edibImamovic/GOpom
