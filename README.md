@@ -1,5 +1,6 @@
 # GOpom
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/edibImamovic/GOpom)](https://goreportcard.com/report/github.com/edibImamovic/GOpom)
 
 edibImamovic/GOpom
 
